@@ -1,0 +1,14 @@
+/* Styling basics */
+
+
+h1{
+    color: black;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+div label {
+    color: black;
+    background-color: yellow;
+    font-size: 20px;
+}
